@@ -1,0 +1,1 @@
+# logansquare-maven-example
